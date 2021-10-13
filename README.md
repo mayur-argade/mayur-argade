@@ -2,7 +2,7 @@
 
 ## Hello! My name is Mayur Argade. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-### I am junior pursuing my bacholors degree in computer engineering from Mumbai University.
+### I am junior pursuing my bachelor's degree in computer engineering from Mumbai University.
 ### I am tech enthusiast trying to connect with people and make network.
 
 
