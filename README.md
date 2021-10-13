@@ -19,7 +19,7 @@ I am junior pursuing my bacholors degree in computer engineering form mumbai uni
 
 <br />
 
-<img src="https://github.com/mayur-argade/mayur-argade/blob/main/assest/Sunlight%20%7BLevi%20x%20Fem!Reader%7D%20-%2014_%20Deep%20Breaths.gif">
+<img align="center" src="https://github.com/mayur-argade/mayur-argade/blob/main/assest/Sunlight%20%7BLevi%20x%20Fem!Reader%7D%20-%2014_%20Deep%20Breaths.gif">
 
 <br />
 
