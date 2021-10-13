@@ -2,7 +2,11 @@
 ## Hello! My name is Mayur Argade. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 
-I am junior pursuing my bacholors degree in computer engineering form mumbai university<a href="https://www.linkedin.com/in/mayur-argade/">
+I am junior pursuing my bacholors degree in computer engineering form mumbai university
+
+
+
+<a href="https://www.linkedin.com/in/mayur-argade/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/Mayurzs">
