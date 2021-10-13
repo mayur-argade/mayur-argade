@@ -1,11 +1,8 @@
-
+<div align="cener">
 ## Hello! My name is Mayur Argade. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-
 I am junior pursuing my bacholors degree in computer engineering form mumbai university
-
-
-
+<br />
 <a href="https://www.linkedin.com/in/mayur-argade/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -15,9 +12,10 @@ I am junior pursuing my bacholors degree in computer engineering form mumbai uni
 <a href="mailto:argademayur2002@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</div>
+<br />
 <img src="https://github.com/mayur-argade/mayur-argade/blob/main/assest/Sunlight%20%7BLevi%20x%20Fem!Reader%7D%20-%2014_%20Deep%20Breaths.gif">
-
+<br />
 ## 🛠 Skills
 
 - Web development
@@ -35,5 +33,9 @@ I am junior pursuing my bacholors degree in computer engineering form mumbai uni
 
 **Database:** [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://reactjs.org/docs/getting-started.html)
 
-
-  
+## Interests
+- Cybersecurity
+- Machine Learning
+- Artificial intelligence 
+- Mobile Development
+- Web development 
