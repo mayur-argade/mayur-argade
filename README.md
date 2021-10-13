@@ -8,7 +8,7 @@ I am junior pursuing my bacholors degree in computer engineering form mumbai uni
 <a href="https://twitter.com/Mayurzs">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com">
+<a href="mailto:argademayur2002@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
