@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img  src="https://github.com/mayur-argade/mayur-argade/blob/main/assest/Sunlight%20%7BLevi%20x%20Fem!Reader%7D%20-%2014_%20Deep%20Breaths.gif">
+<img  src="https://github.com/mayur-argade/mayur-argade/blob/main/assest/levi%20smiling.mp4">
 
 </div>
 
