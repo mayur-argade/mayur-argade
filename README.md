@@ -31,7 +31,7 @@
 
 - Web development
 - UI/UX design
-- Open source enthusiast
+- Grafical User Interface
 
   
 ## Tech Stack
@@ -44,8 +44,6 @@
 **Database:** [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://reactjs.org/docs/getting-started.html)
 
 ## Interests
-- Cybersecurity
-- Machine Learning
-- Artificial intelligence 
-- Mobile Development
-- Web development 
+ - Machine Learning 
+ - Mobile Development
+ - Web development 
