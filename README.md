@@ -43,6 +43,10 @@
 
 **Database:** [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://reactjs.org/docs/getting-started.html)
 
+## stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayur-argade)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-argade)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Interests
  - Machine Learning 
  - Mobile Development
