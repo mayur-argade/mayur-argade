@@ -4,11 +4,9 @@ import Hi from '../assest/Hi.gif'
 const Header = () => {
     return (
         <>
-          <div className="flex items-center justify-center ">
-              <div className="max-h-screen align-middle">
-                  
-                  
-                  
+          <div className="flex-row mx-auto md:items-center md:justify-center  md:flex ">
+              
+              <div className="max-h-screen align-middle">                   
                   <div className="flex text-4xl font-sans pb-3">
                   <img style={{width:"30px"}} className="mr-3" src={Hi} alt="" />
                     Hi!, I am
@@ -22,9 +20,11 @@ const Header = () => {
                   <p>Open source enthusiast |</p>
                   </div>
               </div>
+
               <div className="align-middle pt-9">
                   <img src={header} alt="header" />
               </div>
+
           </div>
 
         </>

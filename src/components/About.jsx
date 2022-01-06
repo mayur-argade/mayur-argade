@@ -1,18 +1,18 @@
-import Mayur from "../assest/Mayur.png"
+import Mayur from "../assest/astronot.gif"
 
 
 const About = () => {
     return (
         <>
-        <div className="mt-16 ">
+        <div className="mt-16  ">
 
         <div className="headline">
         <div className="text-3xl underline underline-offset-2 decoration-violet-700">About</div>
         </div>
 
-        <div className="flex p-10 rounded-3xl justify-center items-center shadow-xl">
+        <div className="flex justify-center p-10 rounded-3xl items-center bg-slate-100 ">
             <div className="border-black">
-            <img className="border-black mr-10" src={Mayur} style={{width:"180px" }}alt="mayur" />
+            <img className="border-black mr-10" src={Mayur} style={{width:"200px" }}alt="mayur" />
             </div>
 
             <div className="">
