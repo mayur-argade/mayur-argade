@@ -7,12 +7,12 @@ const Navbar = () => {
         
          <div className="flex text-xl grow">
             <img className="mr-1" style={{width:"30px", height:"30px"}} src={Mayur} alt="mayur" />
-            <div className="text-xl pl-1">
+            <div className="text-base sm:text-xl pl-1">
                 Mayur Argade
             </div>
         </div>
 
-         <div className="flex justify-end p-1">
+         <div className="hidden justify-end p-1 sm:hidden md:flex">
          <div className="text-xl pr-7 cursor-pointer hover:underline underline-offset-2 decoration-violet-500">About</div>
          <div className="text-xl pr-7 cursor-pointer hover:underline underline-offset-2 decoration-violet-500">Skills</div>
          <div className="text-xl pr-7 cursor-pointer hover:underline underline-offset-2 decoration-violet-500">Projects</div>
