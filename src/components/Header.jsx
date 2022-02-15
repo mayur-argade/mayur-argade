@@ -1,34 +1,31 @@
-import header from '../assest/header.svg'
-import Hi from '../assest/Hi.gif'
+import header from "../assest/header.svg";
+import Hi from "../assest/Hi.gif";
 
 const Header = () => {
-    return (
-        <>
-          <div className="flex-row mx-auto md:items-center md:justify-center  md:flex ">
-              
-              <div className="max-h-screen align-middle">                   
-                  <div className="flex text-4xl font-sans pb-3">
-                  <img style={{width:"30px"}} className="mr-3" src={Hi} alt="" />
-                    Hi!, I am
-                  </div>
-                  <div className="hover:underline underline-offset-2 decoration-violet-500 font-sans text-5xl">
-                      Mayur Argade
-                  </div>
-                  <div className=" font-sans text-2xl pt-4">
-                  <p>Web designer |</p>
-                  <p>Web Developer | </p>
-                  <p>Open source enthusiast |</p>
-                  </div>
-              </div>
-
-              <div className="align-middle pt-9">
-                  <img src={header} alt="header" />
-              </div>
-
+  return (
+    <>
+      <section className="mt-10 container items-center text-xl mx-auto flex flex-wrap p-5 flex-col md:flex-row md:justify-center ">
+        <div className="max-h-screen align-middle text-center ">
+          <h1 class="title-font sm:text-4xl text-3xl mb-2 font-medium text-gray-900"> 
+            Hi! I am <br class="hidden lg:inline-block" />Mayur Argade
+          </h1>
+          <div className="font-sans text-lg sm:text-2xl pt-4">
+            <p>Web designer |</p>
+            <p>Web Developer | </p>
+            <p>Open source enthusiast |</p>
           </div>
+        </div>
 
-        </>
-    )
-}
+        <div class=" mt-10 md:mt-0 lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+          <img
+            class="object-cover object-center rounded"
+            alt="hero"
+            src={header}
+          />
+        </div>
+      </section>
+    </>
+  );
+};
 
-export default Header
+export default Header;
