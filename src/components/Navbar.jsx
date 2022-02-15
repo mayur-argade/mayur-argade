@@ -1,27 +1,26 @@
-import Mayur from "../assest/Mayur.png"
+import Mayur from "../assest/Mayur.png";
 
 const Navbar = () => {
-    return (
-        <>
-        <nav className="flex justify-end pt-3">
-        
-         <div className="flex text-xl grow">
-            <img className="mr-1" style={{width:"30px", height:"30px"}} src={Mayur} alt="mayur" />
-            <div className="text-base sm:text-xl pl-1">
-                Mayur Argade
-            </div>
+  return (
+    <>
+      <header class="mt-5 ">
+        <div class="container justify-between items-center text-xl flex flex-row grow">
+          <a class="flex title-font font-medium items-center text-gray-900 ">
+            <span class="hidden md:block ml-3 text-xl">Mayur Argade</span>
+            <span class="block md:hidden ml-3 text-xl">Mayur</span>
+          </a>
+          <nav class=" hidden md:block md:ml-auto flex flex-wrap items-center text-base justify-center">
+            <a class="pr-7 hover:text-gray-900 hover:underline underline-offset-2 decoration-violet-500 cursor-pointer">About</a>
+            <a class="pr-7 hover:text-gray-900 hover:underline underline-offset-2 decoration-violet-500 cursor-pointer">Skills</a>
+            <a class="pr-7 hover:text-gray-900 hover:underline underline-offset-2 decoration-violet-500 cursor-pointer">Projects</a>
+          </nav>
+          <button class="inline-flex items-center bg-violet-700 text-white border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 hover:text-black rounded text-base pl-8 pr-8 mr-3">
+            lets talk
+          </button>
         </div>
+      </header>
+    </>
+  );
+};
 
-         <div className="hidden justify-end p-1 sm:hidden md:flex">
-         <div className="text-xl pr-7 cursor-pointer hover:underline underline-offset-2 decoration-violet-500">About</div>
-         <div className="text-xl pr-7 cursor-pointer hover:underline underline-offset-2 decoration-violet-500">Skills</div>
-         <div className="text-xl pr-7 cursor-pointer hover:underline underline-offset-2 decoration-violet-500">Projects</div>
-         <button className="rounded-lg bg-violet-700 pr-5 pl-5 text-white">lets Talk</button>
-         </div>
-      
-         </nav>   
-        </>
-    )
-}
-
-export default Navbar
+export default Navbar;
