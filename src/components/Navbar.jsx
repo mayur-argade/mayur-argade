@@ -10,6 +10,7 @@ const Navbar = () => {
             <span class="block md:hidden ml-3 text-xl">Mayur</span>
           </a>
           <nav class=" hidden md:block md:ml-auto flex flex-wrap items-center text-base justify-center">
+            <a class="pr-7 hover:text-gray-900 hover:underline underline-offset-2 decoration-violet-500 cursor-pointer">Home</a>
             <a class="pr-7 hover:text-gray-900 hover:underline underline-offset-2 decoration-violet-500 cursor-pointer">About</a>
             <a class="pr-7 hover:text-gray-900 hover:underline underline-offset-2 decoration-violet-500 cursor-pointer">Skills</a>
             <a class="pr-7 hover:text-gray-900 hover:underline underline-offset-2 decoration-violet-500 cursor-pointer">Projects</a>
