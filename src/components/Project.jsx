@@ -13,7 +13,7 @@ const Project = () => {
             <div className="text-3xl underline underline-offset-2 decoration-violet-700">Projects</div>
             <div className="projectWrapper">
                 
-            <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+            <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl transition duration-500 ease-in-out transform hover:translate-y-5 hover:shadow-2xl">
             <div class="md:flex">
             <div class="md:shrink-0">
             <img  class="h-48 w-full object-fill md:h-full md:w-72" src={lakshya} alt="Man looking at item at a store"/>
@@ -37,7 +37,7 @@ const Project = () => {
             </div>
             </div>
 
-            <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden mt-6 md:max-w-2xl">
+            <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden mt-6 md:max-w-2xl transition duration-500 ease-in-out transform hover:translate-y-5 hover:shadow-2xl">
             <div class="md:flex">
             <div class="md:shrink-0">
             <img  class="h-48 w-full object-fill md:h-full md:w-72" src={vrukshavalli} alt="Man looking at item at a store"/>
