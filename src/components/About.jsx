@@ -9,8 +9,8 @@ const About = () => {
             About
           </div>
         
-        <div className="container mt-10 p-5 items-center mx-auto flex flex-wrap flex-col md:flex-row md:justify-center bg-slate-200 rounded-xl shadow-md">
-        <div className="animate-bounce pt-5">
+        <div className="container mt-10 p-5 items-center mx-auto flex flex-wrap flex-col md:flex-row md:justify-center bg-gradient-to-r from-cyan-200 to-blue-200 rounded-xl shadow-md">
+        <div className="animate-bounce  pt-5">
         <img
               class="object-cover w-32 pt-5 object-center rounded"
               alt="hero"
@@ -18,11 +18,11 @@ const About = () => {
         />
         </div>
         <div class="align-middle p-3 text-center">
-            <h1 class=" sm:text-2xl text-xl font-medium">
+            <h1 class=" sm:text-xl text-xl font-medium">
               Hello
             </h1>
-            <p class="font-sans text-lg sm:text-xl ">
-            i’m junior pursuing my bachelor’s degree in computer engineering.<br class="hidden lg:inline-block" /> I'm full stack web developer who loves to bring ideas into reality.
+            <p class="font-sans text-lg sm:text-lg ">
+            I’m junior pursuing my bachelor’s degree in computer engineering.<br class="hidden lg:inline-block" /> I'm  intersted in software developement, UI/UX design and product management.<br class="hidden lg:inline-block" /> I have 1 year experience in building user friendly full stack web applications and<br class="hidden lg:inline-block" /> currently I am learning web3 technology.
             </p>
           </div>
         </div>
