@@ -8,6 +8,10 @@ import tw from "../assest/tw.png"
 import node from "../assest/node.png"
 import express from "../assest/express.png"
 import mongo from "../assest/mongo.png"
+import blob1 from "../assest/blob-1.png"
+import blob2 from "../assest/blob-2.png"
+
+
 
 // Languages - Java Javasreactript C++ Python C
 // Languages - Java Javasmuiript C++ Python C
@@ -23,36 +27,30 @@ const Skills = () => {
         <div className="text-3xl underline underline-offset-2 decoration-violet-700">
           Skills
         </div>
-        <div className="skils">
-          <div className="items-center mx-auto flex flex-wrap flex-col md:flex-row md:justify-center">
-            <div className="pt-5">
-                <img
-                class="object-cover w-40 pt-5 object-center rounded"
-                alt="hero"
-                src={uiux}
-                />
-            </div>
-            <div className="pl-2 bg-slate-100 mt-7 rounded-lg">
-                <h1 class="text-lg font-medium">UI/UX design</h1>
-            Creating user flows, wireframes, prototypes and mockups. Translating requirements into style guides,<br class="hidden lg:inline-block" /> design systems, design patterns and attractive user interfaces
-            </div>
-          </div>
-          
-          <div className="items-center mx-auto flex flex-wrap flex-col-reverse md:flex-row md:justify-center">
+        <div className=" items-center mx-auto flex flex-wrap flex-col md:flex-row md:justify-center space-x-10">
+           
+              <img
+                className="w-72 sm:w-96"
+                src={blob1}
+                alt=""
+              />
             
-            <div className="pl-2 bg-slate-100 mt-7 rounded-lg">
-                <h1 class="text-lg">MERN stack developement</h1>
-            Building full stack user friendly web applications which fulfill all technical aspects like scalability, site speed,<br class="hidden lg:inline-block" /> responsivness and solves real world problems 
-            </div>
-            <div className="pt-5">
-                <img
-                class="object-cover w-40 pt-5 object-center rounded"
-                alt="hero"
-                src={webd}
-                />
-            </div>
+           
+              <img
+               className="w-72 sm:w-96"
+                src={blob2}
+                alt=""
+              />
+          
           </div>
-        </div>
+        
+          
+          
+          
+        
+
+
+
         <div className="mt-16 ">
         <div className="text-3xl underline underline-offset-2 decoration-violet-700">
           Tech I'm familier with
