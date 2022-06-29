@@ -1,11 +1,11 @@
 import Mayur from "../assest/Mayur.png";
-
+import resume from '../assest/resume.pdf'
 const Navbar = () => {
   return (
     <>
       <header class="mt-5 ">
         <div class="container justify-between items-center text-xl flex flex-row grow">
-          <a class="flex title-font font-medium items-center text-gray-900 ">
+          <a href={resume} class="flex title-font font-medium items-center text-gray-900 ">
             <span class="hidden md:block ml-3 text-xl">Mayur Argade</span>
             <span class="block md:hidden ml-3 text-xl">Mayur</span>
           </a>
