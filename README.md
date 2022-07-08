@@ -2,7 +2,7 @@
 
 ## Hello! My name is Mayur Argade.
 
-### I am junior pursuing my bachelor's degree in computer engineering from Mumbai University. <br/> I am tech enthusiast trying to connect with people and make network.
+### I’m junior pursuing my bachelor’s degree in computer engineering. <br> I'm intersted in software developement, UI/UX design and product management. I have 1 year experience in building user friendly full stack web applications and currently I am learning web3 technology.
 
 
 <a href="https://www.linkedin.com/in/mayur-argade/">
