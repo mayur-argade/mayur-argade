@@ -1,9 +1,10 @@
 <div align="center">
+
 # Hey! I'm Mayur Argade 
 ### Software Developer | UI/UX designer | Machine learning beginner 
- 
+</div> 
 Connect with me 
-</div>
+
 <p align="center">
 <a href="https://mayurargade.netlify.app/"><img src="https://img.shields.io/badge/-mayurargade-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mayur-argade/"><img src="https://img.shields.io/badge/-Mayur%20Argade%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -19,11 +20,11 @@ Connect with me
 
 
 ### About me -
-👦 I'm junior pursuing py bacholers degree in computer engineering from mumbai university.
-💻 I am Full-Stack JavaScript Developer with project building experience.
-👩‍💻 Currently I'm getting my hands dirty trying Machine learning.
-✍ In my free time I do sketching and write blogs. you can checkout my blogs at ![Hashnode](https://mayurargade.hashnode.dev/)
-📝 Have a look at my ![resume](https://github.com/mayur-argade/mayur-argade/blob/readme/src/assest/resume.pdf) for more about me. 
+👦 I'm junior pursuing py bacholers degree in computer engineering from mumbai university.<br/>
+💻 I am Full-Stack JavaScript Developer with project building experience.<br/>
+👩‍💻 Currently I'm getting my hands dirty trying Machine learning.<br/>
+✍ In my free time I do sketching and write blogs. you can checkout my blogs at ![Hashnode](https://mayurargade.hashnode.dev/)<br/>
+📝 Have a look at my ![resume](https://github.com/mayur-argade/mayur-argade/blob/readme/src/assest/resume.pdf) for more about me. <br/>
 
   
 ### Tech Stack
