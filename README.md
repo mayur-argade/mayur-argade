@@ -3,11 +3,10 @@
 # Hey! I'm Mayur Argade <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ```diff
 
-@@ Software Developer | UI/UX designer | Machine learning beginner @@ 
+Software Developer | UI/UX designer | Machine learning beginner 
 
 ```
-</div> 
-Connect with me 
+</div>  
 
 <p align="center">
 <a href="https://mayurargade.netlify.app/"><img src="https://img.shields.io/badge/-mayurargade-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -25,8 +24,8 @@ Connect with me
 
 ### About me -
 👦 I'm junior pursuing py bacholers degree in computer engineering from mumbai university.<br/>
-💻 I am Full-Stack JavaScript Developer with project building experience.<br/>
-👩‍💻 Currently I'm getting my hands dirty trying Machine learning.<br/>
+💻 I am Full-Stack JavaScript Developer with 1 year of project building experience.<br/>
+👩‍💻 Currently I'm getting my hands dirty in Machine learning.<br/>
 ✍ In my free time I do sketching and write blogs. you can checkout my blogs at [Hashnode](https://mayurargade.hashnode.dev/)<br/>
 📝 Have a look at my [resume](https://github.com/mayur-argade/mayur-argade/blob/readme/src/assest/resume.pdf) for more about me. <br/>
 
@@ -37,8 +36,13 @@ Connect with me
 
 
 ### Featured Projects 
+##### [Lakshya](https://github.com/mayur-argade/Lakshya) - An Online Learning Portal
+##### [EventTick](https://github.com/mayur-argade/Event-management-portal) - Manage Event data easily.
+##### [LinkP](https://github.com/mayur-argade/Projects-linktree) - Links for all my projects.
+##### [Vrukshavalli](https://github.com/mayur-argade/Vrukshavalli) - Share place for your tree.
 
-
+#### Currently working project
+##### [Internet]() - Complete work ecosystem balancer.
 
 ### Github stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-argade)](https://github.com/anuraghazra/github-readme-stats)
