@@ -3,7 +3,7 @@
 # Hey! I'm Mayur Argade <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ```diff
 
-Software Developer | UI/UX designer | Machine learning beginner 
+@@ Software Developer | UI/UX designer | Machine learning beginner @@
 
 ```
 </div>  
@@ -22,7 +22,7 @@ Software Developer | UI/UX designer | Machine learning beginner
 </div>
 
 
-### About me -
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />  About me -
 👦 I'm junior pursuing py bacholers degree in computer engineering from mumbai university.<br/>
 💻 I am Full-Stack JavaScript Developer with 1 year of project building experience.<br/>
 👩‍💻 Currently I'm getting my hands dirty in Machine learning.<br/>
@@ -37,10 +37,20 @@ Software Developer | UI/UX designer | Machine learning beginner
 <br/>
 
 ### Featured Projects 
-##### 👉[Lakshya](https://github.com/mayur-argade/Lakshya) - An Online Learning Portal
-##### 👉[EventTick](https://github.com/mayur-argade/Event-management-portal) - Manage Event data easily.
+<div>
+  <p>
+    <a href="https://github.com/mayur-argade/Lakshya">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur-argade&repo=Lakshya" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/mayur-argade/Event-management-portal">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur-argade&repo=Event-management-portal" alt="GitHub Stats" />
+    </a>
+  </p>
+<!-- </div>
+##### 👉[Lakshya]() - An Online Learning Portal
+##### 👉[EventTick]() - Manage Event data easily.
 ##### 👉[LinkP](https://github.com/mayur-argade/Projects-linktree) - Links for all my projects.
-##### 👉[Vrukshavalli](https://github.com/mayur-argade/Vrukshavalli) - Share place for your tree.
+##### 👉[Vrukshavalli](https://github.com/mayur-argade/Vrukshavalli) - Share place for your tree. -->
 
 #### <u>Currently working project</u> 
 ##### 👉[Internet]() - Complete work ecosystem balancer.
@@ -48,5 +58,6 @@ Software Developer | UI/UX designer | Machine learning beginner
 <br/>
 
 ### Github stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-argade)](https://github.com/anuraghazra/github-readme-stats)
-
+![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=mayur-argade&show_icons=true&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-argade)](https://github.com/anuraghazra/github-readme-stats) -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg&theme=graywhite" />
