@@ -40,10 +40,10 @@
 <div>
   <p>
     <a href="https://github.com/mayur-argade/Lakshya">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur-argade&repo=Lakshya" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=mayur-argade&repo=Lakshya" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/mayur-argade/Event-management-portal">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur-argade&repo=Event-management-portal" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=mayur-argade&repo=Event-management-portal" alt="GitHub Stats" />
     </a>
   </p>
 
