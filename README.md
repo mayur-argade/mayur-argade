@@ -24,7 +24,7 @@
 ## <img src="https://cdn3.emoji.gg/emojis/4297-pepe-hacker.gif" width='42' /> About me -
 👦 I'm a junior pursuing my bachelor's degree in computer engineering from Mumbai university.<br/>
 💻 I'm a Full-Stack JavaScript Developer with 1 year of project building experience.<br/>
-👩‍💻 Currently, I'm getting my hands dirty in Machine learning.<br/>
+👩‍💻 Currently, I'm trying to learn Machine learning.<br/>
 ✍ In my free time, I do sketching and write blogs. you can check out my blogs at [Hashnode](https://mayurargade.hashnode.dev/)<br/>
 📝 Have a look at my [resume](https://github.com/mayur-argade/mayur-argade/blob/readme/src/assest/resume.pdf) for more about me. <br/>
 
@@ -40,10 +40,10 @@
 <div>
   <p>
     <a href="https://github.com/mayur-argade/Lakshya">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur-argade&repo=Lakshya" alt="Lakshya" />
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=mayur-argade&repo=Lakshya" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/mayur-argade/Event-management-portal">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayur-argade&repo=Event-management-portal" alt="eventTick" />
+      <img src="https://github-readme-stats.vercel.app/api/pin?username=mayur-argade&repo=Event-management-portal" alt="GitHub Stats" />
     </a>
   </p>
 
