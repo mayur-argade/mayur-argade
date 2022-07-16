@@ -52,7 +52,6 @@
 
 <br />
 
-##  <img src="https://cdn3.emoji.gg/emojis/5643_github_octocat.png" width="43px" height="43px"/> Github 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default)
-
+##  <img src="https://cdn3.emoji.gg/emojis/5643_github_octocat.png" width="43px" height="43px"/> Github Stats
+<img height='130px' src="https://github-readme-stats.vercel.app/api?username=mayur-argade&show_icons=true&theme=default" />
 <img  height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-argade&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg&theme=graywhite" />
