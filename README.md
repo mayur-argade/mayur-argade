@@ -48,7 +48,7 @@
   </p>
 
 ### Currently working project 
-#### 👉[talktative](https://github.com/mayur-argade/talktative) - Real time voice chat application.
+#### 👉[Talkstation](https://github.com/mayur-argade/Talkstation) - Real time voice chat application.
 
 <br />
 
