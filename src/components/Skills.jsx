@@ -1,71 +1,188 @@
-import java from "../assest/java.png"
-import js from "../assest/js.png"
-import cpp from "../assest/cpp.png"
-import py from "../assest/py.png"
-import react from "../assest/react.png"
-import mui from "../assest/mui.png"
-import tw from "../assest/tw.png"
-import node from "../assest/node.png"
-import express from "../assest/express.png"
-import mongo from "../assest/mongo.png"
-import blob1 from "../assest/blob-1.png"
-import blob2 from "../assest/blob-2.png"
-
-
-
-// Languages - Java Javasreactript C++ Python C
-// Languages - Java Javasmuiript C++ Python C
-// Client - React Material-UI tailwindcss HTML5 CSS3
-// Server - NodeJS expressJS
-// Database - MongoDB
-import uiux from "../assest/uiux.png"
-import webd from "../assest/mern.png"
 const Skills = () => {
   return (
     <>
-      <div className="mt-16 mr-5 ml-5 ">
-        <div className="text-3xl underline underline-offset-2 decoration-violet-700">
-          Skills
-        </div>
-        <div className=" items-center mx-auto flex flex-wrap flex-col md:flex-row md:justify-center space-x-10">
-           
-              <img
-                className="w-72 sm:w-96"
-                src={blob1}
-                alt=""
-              />
-            
-           
-              <img
-               className="w-72 sm:w-96"
-                src={blob2}
-                alt=""
-              />
-          
+      <div className="mt-12 mr-5 ml-5 ">
+        <div className="text-4xl text-center">Skills</div>
+        <div className="skilss flex flex-wrap justify-evenly space-y-3 space-x-1 md:space-x-0">
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center mt-3">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/java.png" />
+            <span className="text-sm">Java</span>
+          </a>
           </div>
-        
-          
-          
-          
-        
 
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/js.png" />
+            <span className="text-sm">Javascript</span>
+          </a>
+          </div>
 
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/cpp.png" />
+            <span className="text-sm">C++</span>
+          </a>
+          </div>
 
-        <div className="mt-16 ">
-        <div className="text-3xl underline underline-offset-2 decoration-violet-700">
-          Tech I'm familier with
-        </div>
-        <div className="flex-wrap flex align-middle justify-center space-x-5 mt-5">
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={java} alt="" /> Java</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={js} alt="" /> javascript</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={cpp} alt="" /> C++</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={py} alt="" />Python</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={react} alt="" />React</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={mui} alt="" />MUI</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={tw} alt="" />tailwindcss</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={express} alt="" />ExpressJS</span>
-          <span class="flex items-center m-3 pr-3 pl-3 bg-slate-100"><img class="w-7 pr-2" src={mongo} alt="" /> MongoDB</span>
-        </div>
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/python.png" />
+            <span className="text-sm">Python</span>
+          </a>
+          </div>
+          
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/react.png" />
+            <span className="text-sm">React</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/git.png" />
+            <span className="text-sm">Git</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/strapi.png" />
+            <span className="text-sm">Strapi</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/tailwind.png" />
+            <span className="text-sm">Tailwind-CSS</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/bootstrap.png" />
+            <span className="text-sm">Bootstrap</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-4" src="/images/serverless.png" />
+            <span className="text-sm">Serverless</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/aws.png" />
+            <span className="text-sm">AWS</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/npm.png" />
+            <span className="text-sm">NPM</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/figma.png" />
+            <span className="text-sm">Figma</span>
+          </a>
+          </div>
+          
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/netlify.png" />
+            <span className="text-sm">Netlify</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/heroku.png" />
+            <span className="text-sm">Heroku</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/mongodb.png" />
+            <span className="text-sm">MongoDB</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/nodejs.png" />
+            <span className="text-sm">NodeJS</span>
+          </a>
+          </div>
+
+          <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
+          <a
+            target="blank"
+            class="inline-flex items-center space-x-2 "
+          >
+            <img className="h-5" src="/images/mysql.png" />
+            <span className="text-sm">MySQL</span>
+          </a>
+          </div>
         </div>
       </div>
     </>

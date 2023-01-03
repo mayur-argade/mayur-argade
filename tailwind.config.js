@@ -7,6 +7,9 @@ module.exports = {
       colors: {
         'Voilet': '#9512FF',
       },
+      fontFamily: {
+        'poppins': ['Poppins'],
+     }
     },
   },
   plugins: [],
