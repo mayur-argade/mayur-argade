@@ -29,6 +29,7 @@ const Project = () => {
           <div className="flex flex-col space-y-4">
           <img src="/images/lakshya.png" className="max-h-36 w-60" alt="" />
           <img src="/images/agrotech.png" className="max-h-36 w-60" alt="" />
+          <img src="/images/vrukshavalli.png" className="block md:hidden max-h-36 w-60" alt="" />
           </div>
         </div>
       </div>
@@ -37,9 +38,3 @@ const Project = () => {
 };
 
 export default Project;
-// 3 start in c++ hackerank
-// 1 start in problem solving hackerrank
-// pro backend developer certificate by learn code online
-// python beginner to advance course completion certificate
-
-//

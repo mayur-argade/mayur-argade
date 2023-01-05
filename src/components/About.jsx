@@ -4,10 +4,10 @@ const About = () => {
   return (
     <>
       <section class="mr-5 ml-5 ">
-        <div className="flex justify-evenly flex-wrap mt-7">
+        <div className="flex justify-evenly flex-wrap mt-7 space-y-2">
           <a
             target="blank"
-            class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer"
+            class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer mt-2"
           >
             <img src="/images/fullstack.svg" className="w-4" />
             <span className="text-xs font-medium">Full Stack Developer</span>
