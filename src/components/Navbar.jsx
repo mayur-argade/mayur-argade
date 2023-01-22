@@ -1,43 +1,64 @@
-import Mayur from "../assest/Mayur.png";
-import resume from "../assest/resume.pdf";
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
   return (
     <>
       <nav class="mt-5 m-3 max-h-14">
-        <div class="container justify-between items-center text-base flex flex-row grow">
+        <div class="sticky top-0 z-50 container justify-between items-center text-base flex flex-row grow">
           <span class="hidden md:block ml-3 text-base cursor-default">
             Mayur Argade
           </span>
           <span class="block md:hidden ml-3 text-base cursor-default">Mayur</span>
           <div class=" hidden md:block md:ml-auto flex flex-wrap items-center text-base justify-center">
-            <a class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+            
+            <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+            <Link to="/">
               <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
                 Home
               </span>
-            </a>
-            <a class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+            </Link>
+            </span>
+
+            <Link to='/about'>
+
+            <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
               <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
                 About
               </span>
-            </a>
-            <a class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+            </span>
+            </Link>
+
+            <Link to='/work'>
+
+            <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
               <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
                 Projects
               </span>
-            </a>
-            <a class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+            </span>
+            </Link>
+
+            <Link to='/'>
+
+            <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
               <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
                 Blogs
               </span>
-            </a>
-            <a class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+            </span>
+            </Link>
+
+            <Link to='/art'>
+            <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
               <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
                 Art
               </span>
-            </a>
+            </span>
+          </Link>
+
           </div>
           <a
-            href={resume}
+          target="_blank"
+          rel="noreferrer"
+            href="https://drive.google.com/file/d/1Y_9iGcCKXf7jol0tEchmZZYO_rV0NlC5/view?usp=share_link"
             class="inline-flex items-center bg-violet-700 text-white border-0 py-1 px-3 focus:outline-none hover:bg-violet-500  rounded text-base pl-8 pr-8 mr-3 "
           >
             <svg

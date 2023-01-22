@@ -1,5 +1,4 @@
 import header from "../assest/header3.png";
-import Hi from "../assest/Hi.gif";
 
 const Header = () => {
   return (
@@ -31,7 +30,7 @@ const Header = () => {
                 target="blank"
                 class="inline-flex items-center space-x-1 pr-3 pl-3 px-1 py-1 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer"
               >
-                <img src="/images/github.svg" />
+                <img alt="social-media" src="/images/github.svg" />
                 <span className="text-sm">Github</span>
               </a>
 
@@ -40,7 +39,7 @@ const Header = () => {
                 class="inline-flex items-center space-x-1 pr-3 pl-3 px-1 py-1 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer"
                 target="blank"
               >
-                <img src="/images/linkdien.svg" />
+                <img alt="social-media" src="/images/linkdien.svg" />
                 <span className="text-sm">Linkdien</span>
               </a>
 
@@ -49,7 +48,7 @@ const Header = () => {
                 class="inline-flex items-center space-x-1 pr-3 pl-3 px-1 py-1 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer"
                 target="blank"
               >
-                <img src="/images/hashnode.svg" />
+                <img alt="social-media" src="/images/hashnode.svg" />
                 <span className="text-sm">Hashnode</span>
               </a>
             </div>
@@ -60,7 +59,7 @@ const Header = () => {
                 class="inline-flex items-center space-x-1 pr-3 pl-3 px-1 py-1 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer"
                 target="blank"
               >
-                <img src="/images/twitter.svg" />
+                <img alt="social-media" src="/images/twitter.svg" />
                 <span className="text-sm">Twitter</span>
               </a>
 
@@ -69,7 +68,7 @@ const Header = () => {
                 class="inline-flex items-center space-x-1 pr-3 pl-3 px-1 py-1 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer"
                 target="blank"
               >
-                <img src="/images/insta.svg" />
+                <img alt="social-media" src="/images/insta.svg" />
                 <span className="text-sm">Instagram</span>
               </a>
             </div>
@@ -81,7 +80,3 @@ const Header = () => {
 };
 
 export default Header;
-{
-  /* <a href="https://github.com/mayur-argade"><img class="pr-6 inset-0 transform  hover:scale-125 transition duration-300" src={github} alt="" srcset="" /></a>
-   */
-}

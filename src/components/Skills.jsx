@@ -5,183 +5,201 @@ const Skills = () => {
         <div className="text-4xl text-center">Skills</div>
         <div className="skilss flex flex-wrap justify-evenly space-y-3 space-x-1 md:space-x-0">
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center mt-3">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/java.png" />
+            <img alt="sorry" className="h-5" src="/images/java.png" />
             <span className="text-sm">Java</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/js.png" />
+            <img alt="sorry" className="h-5" src="/images/js.png" />
             <span className="text-sm">Javascript</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/cpp.png" />
+            <img alt="sorry" className="h-5" src="/images/cpp.png" />
             <span className="text-sm">C++</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/python.png" />
+            <img alt="sorry" className="h-5" src="/images/python.png" />
             <span className="text-sm">Python</span>
-          </a>
+          </span>
           </div>
           
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/react.png" />
+            <img alt="sorry" className="h-5" src="/images/react.png" />
             <span className="text-sm">React</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/git.png" />
+            <img alt="sorry" className="h-5" src="/images/git.png" />
             <span className="text-sm">Git</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/strapi.png" />
+            <img alt="sorry" className="h-5" src="/images/strapi.png" />
             <span className="text-sm">Strapi</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/tailwind.png" />
+            <img alt="sorry" className="h-5" src="/images/tailwind.png" />
             <span className="text-sm">Tailwind-CSS</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/bootstrap.png" />
+            <img alt="sorry" className="h-5" src="/images/bootstrap.png" />
             <span className="text-sm">Bootstrap</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-4" src="/images/serverless.png" />
+            <img alt="sorry" className="h-4" src="/images/serverless.png" />
             <span className="text-sm">Serverless</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/aws.png" />
+            <img alt="sorry" className="h-5" src="/images/aws.png" />
             <span className="text-sm">AWS</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/npm.png" />
+            <img alt="sorry" className="h-5" src="/images/npm.png" />
             <span className="text-sm">NPM</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/figma.png" />
+            <img alt="sorry" className="h-5" src="/images/figma.png" />
             <span className="text-sm">Figma</span>
-          </a>
+          </span>
           </div>
           
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/netlify.png" />
+            <img alt="sorry" className="h-5" src="/images/netlify.png" />
             <span className="text-sm">Netlify</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/heroku.png" />
+            <img alt="sorry" className="h-5" src="/images/heroku.png" />
             <span className="text-sm">Heroku</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/mongodb.png" />
+            <img alt="sorry" className="h-5" src="/images/mongodb.png" />
             <span className="text-sm">MongoDB</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/nodejs.png" />
+            <img alt="sorry" className="h-5" src="/images/nodejs.png" />
             <span className="text-sm">NodeJS</span>
-          </a>
+          </span>
           </div>
 
           <div className="w-40 h-9 rounded bg-gray-200 hover:bg-gray-100 cursor-pointer flex align-middle justify-center ">
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 "
           >
-            <img className="h-5" src="/images/mysql.png" />
+            <img alt="sorry" className="h-5" src="/images/mysql.png" />
             <span className="text-sm">MySQL</span>
-          </a>
+          </span>
           </div>
         </div>
       </div>

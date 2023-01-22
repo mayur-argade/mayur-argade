@@ -9,7 +9,7 @@ const Blogs = () => {
           <div className="w-full rounded p-3 bg-gray-200 hover:bg-gray-100 cursor-pointer flex mt-3">
             <a target="blank" href="https://mayurargade.hashnode.dev/building-web-applications-with-nodejs-using-mvc-architecture" class="flex flex-col">
               <div className="inline-flex space-x-2">
-                <img className="h-5" src="/images/hashnode.svg" />
+                <img alt="sorry" className="h-5" src="/images/hashnode.svg" />
                 <span className="font-medium text-sm">
                   Building Web application backend with NodeJS using MVC
                 </span>

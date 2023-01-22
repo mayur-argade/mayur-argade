@@ -1,49 +1,50 @@
-import Mayur from "../assest/astro.png";
+import { Link } from "react-router-dom";
 
 const About = () => {
   return (
     <>
       <section class="mr-5 ml-5 ">
         <div className="flex justify-evenly flex-wrap mt-7 space-y-2">
-          <a
-            target="blank"
-            class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer mt-2"
-          >
-            <img src="/images/fullstack.svg" className="w-4" />
+          <span class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer mt-2">
+            <img alt="sorry" src="/images/fullstack.svg" className="w-4" />
             <span className="text-xs font-medium">Full Stack Developer</span>
-          </a>
+          </span>
 
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer"
           >
-            <img src="/images/designer.svg" className="w-4" />
+            <img alt="sorry" src="/images/designer.svg" className="w-4" />
             <span className="text-xs font-medium">Designer</span>
-          </a>
+          </span>
 
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer"
           >
-            <img src="/images/productdesign.svg" className="w-4" />
+            <img alt="sorry" src="/images/productdesign.svg" className="w-4" />
             <span className="text-xs font-medium">Product design</span>
-          </a>
+          </span>
 
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer"
           >
-            <img src="/images/productmanager.svg" className="w-4" />
+            <img alt="sorry" src="/images/productmanager.svg" className="w-4" />
             <span className="text-xs font-medium">Product Manager</span>
-          </a>
+          </span>
 
-          <a
+          <span
             target="blank"
+            href="#"
             class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer"
           >
-            <img src="/images/opensource.svg" className="w-4" />
+            <img alt="sorry" src="/images/opensource.svg" className="w-4" />
             <span className="text-xs font-medium">Open Source</span>
-          </a>
+          </span>
         </div>
         <div className="text-center mt-7">
           <span className="text-center font-medium text-base">Hello ! </span>
@@ -56,11 +57,12 @@ const About = () => {
             learn Machine learning.✍ In my free time, I do sketching and write
             blogs. you can check out my blogs at Hashnode 📝{" "}
           </p>
+          <Link to='/about'>
           <button className="inline-flex items-center space-x-1 pr-3 pl-3 px-1 py-1 rounded cursor-pointer bg-violet-700 text-white mt-2">
-    <span className="text-sm text-center">More about Me</span>
-        </button>
+            <span className="text-sm text-center">More about Me</span>
+          </button>
+          </Link>
         </div>
-        
       </section>
     </>
   );

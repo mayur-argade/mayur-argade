@@ -1,10 +1,4 @@
-import lakshya from "../assest/lakshya.png";
-import vrukshavalli from "../assest/vrukshavalli.png";
-import external from "../assest/external.svg";
-import hackerank from "../assest/hackerank.svg";
-import leetcode from "../assest/leetcode.svg";
-import internet from "../assest/logo.jpg";
-import event from "../assest/event.jpg";
+import { Link } from "react-router-dom";
 
 const Project = () => {
   return (
@@ -16,9 +10,11 @@ const Project = () => {
           </div>
           <div className="mt-3">
           <p className="whitespace-normal">As a web developer, I specialize in building web applications <br /> using React, NodeJS, and ExpressJS. <br /> I have experience with databases such as MongoDB and MySQL, <br /> and I place a strong emphasis on <br /> creating user-friendly and visually appealing UI/UX designs for <br /> websites.</p> 
+          <Link to='/work'>
           <button className="inline-flex items-center space-x-1 pr-3 pl-3 px-1 py-1 rounded cursor-pointer bg-violet-700 text-white mt-2">
     <span className="text-sm text-center ">Projects</span>
         </button>
+          </Link>
           </div>
           
         </div>
