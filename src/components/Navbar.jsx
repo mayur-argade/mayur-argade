@@ -19,14 +19,14 @@ const Navbar = () => {
             </Link>
             </span>
 
-            <Link to='/about'>
+//             <Link to='/about'>
 
-            <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
-              <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
-                About
-              </span>
-            </span>
-            </Link>
+//             <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+//               <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
+//                 About
+//               </span>
+//             </span>
+//             </Link>
 
             <Link to='/work'>
 
@@ -37,14 +37,14 @@ const Navbar = () => {
             </span>
             </Link>
 
-            <Link to='/'>
+//             <Link to='/'>
 
-            <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
-              <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
-                Blogs
-              </span>
-            </span>
-            </Link>
+//             <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
+//               <span className="bg-left-bottom bg-gradient-to-r from-purple-700 to-purple-700 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out text-base">
+//                 Blogs
+//               </span>
+//             </span>
+//             </Link>
 
             <Link to='/art'>
             <span class="group text-black-500 transition-all duration-300 ease-in-out mr-7 cursor-pointer">
