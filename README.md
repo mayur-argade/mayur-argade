@@ -26,7 +26,7 @@
 💻 I'm a Full-Stack JavaScript Developer with 1 year of project building experience.<br/>
 👩‍💻 Currently, I'm trying to learn Machine learning.<br/>
 ✍ In my free time, I do sketching and write blogs. you can check out my blogs at [Hashnode](https://mayurargade.hashnode.dev/)<br/>
-📝 Have a look at my [resume](https://github.com/mayur-argade/mayur-argade/blob/readme/src/assest/resume.pdf) for more about me. <br/>
+📝 Have a look at my [resume](https://drive.google.com/file/d/1y8WHLil9m3aYaX91ZrhHdqNYCiMU-5kV/view?usp=drive_link) for more about me. <br/>
 
 <br />
 
@@ -49,9 +49,3 @@
 
 ### Currently working project 
 #### 👉[Talkstation](https://github.com/mayur-argade/Talkstation) - Real time voice chat application.
-
-<br />
-
-##  <img src="https://cdn3.emoji.gg/emojis/5643_github_octocat.png" width="43px" height="43px"/> Github Stats
-<img height='130px' src="https://github-readme-stats.vercel.app/api?username=mayur-argade&show_icons=true&theme=default" />
-<img  height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-argade&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg&theme=graywhite" />
