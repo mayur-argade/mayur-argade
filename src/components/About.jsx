@@ -33,15 +33,6 @@ const About = () => {
             href="#"
             class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer"
           >
-            <img alt="sorry" src="/images/productmanager.svg" className="w-4" />
-            <span className="text-xs font-medium">Product Manager</span>
-          </span>
-
-          <span
-            target="blank"
-            href="#"
-            class="inline-flex items-center space-x-2 pr-3 pl-3 px-2 py-2 rounded-full bg-white border cursor-pointer"
-          >
             <img alt="sorry" src="/images/opensource.svg" className="w-4" />
             <span className="text-xs font-medium">Open Source</span>
           </span>

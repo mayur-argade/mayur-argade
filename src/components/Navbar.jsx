@@ -56,7 +56,7 @@ const Navbar = () => {
           <a
           target="_blank"
           rel="noreferrer"
-            href="https://drive.google.com/file/d/1Y_9iGcCKXf7jol0tEchmZZYO_rV0NlC5/view?usp=share_link"
+            href="https://drive.google.com/file/d/1ISfiI5cI4SnSYSiMEDnpzq0aXcckhCNg/view?usp=sharing"
             class="inline-flex items-center bg-violet-700 text-white border-0 py-1 px-3 focus:outline-none hover:bg-violet-500  rounded text-base pl-8 pr-8 mr-3 "
           >
             <svg

@@ -17,8 +17,8 @@ const Header = () => {
             <h1 className=" sm:text-5xl text-3xl font-normal ">Mayur Argade</h1>
             <h2 className="text-xl font-light mb-2">Full Stack Developer</h2>
             <p className="text-sm font-normal">
-              Welcome To Digital Gallery, Where I share my projects and <br />
-              What I am developing. I Build tech and do art that’s it.
+              Welcome To Digital Gallery, Here I share my projects and <br />
+              What I am developing. I Build tech and do art.
             </p>
           </div>
 
