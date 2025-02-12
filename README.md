@@ -4,8 +4,6 @@
 # Hey! I'm Mayur Argade <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ```diff
 
-@@ Software Developer | UI/UX designer | Product Management @@
-
 ```
 </div>  
 
